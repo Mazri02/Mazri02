@@ -3,7 +3,7 @@ Hi! My Name is Muhd Azri Mokhzani and I'm FullStack Software Developer,<br>Mostl
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Azri Mokhzani) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azri-mokhzani-5b585718a/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azri.mokhzani@gmail.com) 
 
 # 💻 Tech Stack:
