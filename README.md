@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi! My Name is Muhd Azri Mokhzani and I'm FullStack Software Developer,<br>Mostly works by myself but still willing to collaborate with other devs. I may look like this but I am actively learning (Promise))<br>
+Hello, to those who are reading this,
+
+My name is Muhd Azri Bin Mokhzani, a Fullstack Developer who has a deep passion for Software Development in General. I am dedicated to achieving excellence through innovative and creative solutions. I am also heavily involved in the critical process of delivering production, such as Deployment, Integration with CloudFlare, and SEO Implementation. Most of the time, I am most efficient when working by myself but I am also able to actively collaborate with my team members.
+
+I am excited to connect with like-minded professionals and explore opportunities for collaboration and growth within the Information Technology landscape especially in the expertise of Web and Mobile Development.
 
 
 ## 🌐 Socials:
